@@ -8,6 +8,7 @@ public class Task1 {
   }
   
   public static int add(int a, int b){
+    System.out.println("This add method");
     return a + b;
   }
 
