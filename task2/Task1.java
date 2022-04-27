@@ -17,4 +17,9 @@ public class Task1 {
     return a + b + c;
   }
 
+  public static int add(int a, int b, int c, int d) {
+    System.out.println("This add method for 4 params");
+    return a + b + c + d;
+  }
+
 }
