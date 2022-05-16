@@ -1,6 +1,6 @@
 # pdp-git
-project for resolving tasks from Git module in scope of preparing to assessment. 
+project for resolving tasks from **_Git_** module in scope of preparing to assessment. 
 
-### Consist of the following submodules:
+### Consists of the following submodules:
  - Git
  
